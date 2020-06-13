@@ -1,0 +1,12 @@
+[submodule "thirdparty/vivid"]
+	path = thirdparty/vivid
+	url = https://github.com/gurki/vivid.git
+[submodule "thirdparty/range-v3"]
+	path = thirdparty/range-v3
+	url = https://github.com/ericniebler/range-v3.git
+[submodule "thirdparty/fmt"]
+	path = thirdparty/fmt
+	url = https://github.com/fmtlib/fmt.git
+[submodule "thirdparty/libfort"]
+	path = thirdparty/libfort
+	url = https://github.com/seleznevae/libfort.git
